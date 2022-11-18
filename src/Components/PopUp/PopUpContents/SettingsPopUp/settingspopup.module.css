@@ -1,0 +1,72 @@
+.popUpHead {
+  text-align: center;
+  letter-spacing: 0;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-weight: 600;
+  font-size: 28px;
+  color: #151818;
+}
+
+.closeIcon {
+  width: 14px;
+  height: 14px;
+  object-fit: contain;
+
+  position: fixed;
+  right: 5%;
+  top: 8%;
+
+  cursor: pointer;
+}
+
+.optionsContainer {
+  width: 100%;
+
+  margin-top: 30px;
+}
+
+.optionsContainer .option {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  padding: 16px 0;
+
+  border-bottom: 1px solid rgba(127, 17, 224, 0.2);
+}
+
+.optionsContainer .option .leftSide .primaryTextAndBar {
+  display: flex;
+  align-items: center;
+}
+
+.optionsContainer .option .leftSide .verticalBar {
+  width: 12px;
+  height: 3px;
+  background-color: #008466;
+
+  border-radius: 8px;
+}
+
+.optionsContainer .option .leftSide .primaryText {
+  font-family: "Quicksand-Regular", sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 20px;
+  letter-spacing: 0;
+  color: #151818;
+
+  margin-left: 8px;
+}
+
+.optionsContainer .option .leftSide .secondaryText {
+  font-family: "Quicksand-Light", sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  color: #3c3d3d;
+
+  margin-top: 8px;
+
+  margin-left: 20px;
+}

@@ -1,0 +1,41 @@
+/* on desktop 4px up text double the padding margin spacing etc */
+:root {
+  --main_bg_light: #ffffff;
+  --main_text_light: #000000;
+  --main_bg_light_grad: linear-gradient(
+    180deg,
+    #ffffff 50%,
+    rgba(247, 246, 220, 0) 99.99%,
+    rgba(255, 255, 255, 0) 100%
+  );
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: "Quicksand-Light";
+  src: local("Quicksand-Light"),
+    url("./assets/fonts/quicksand/Quicksand-Light.otf") format("woff");
+}
+
+@font-face {
+  font-family: "Quicksand-Regular";
+  src: local("Quicksand-Regular"),
+    url("./assets/fonts/quicksand/Quicksand-Regular.otf") format("woff");
+}
+
+@font-face {
+  font-family: "Quicksand-Bold";
+  src: local("Quicksand-Bold"),
+    url("./assets/fonts/quicksand/Quicksand-Bold.otf") format("woff");
+}
+
+@font-face {
+  font-family: "Quicksand-Italic";
+  src: local("Quicksand-Italic"),
+    url("./assets/fonts/quicksand/Quicksand-Italic.otf") format("woff");
+}

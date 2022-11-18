@@ -1,0 +1,124 @@
+.popUpHead {
+  text-align: center;
+  letter-spacing: 0;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-weight: 600;
+  font-size: 28px;
+  color: var(--main_text_light);
+}
+
+.closeIcon {
+  width: 14px;
+  height: 14px;
+  object-fit: contain;
+
+  position: fixed;
+  right: 5%;
+  top: 5%;
+
+  cursor: pointer;
+}
+
+.listContainer {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.listContainer ul {
+  width: 100%;
+  margin-left: 15px;
+  list-style-image: url("../../../../assets/icons/Star.svg");
+  margin-top: 30px;
+}
+
+.listContainer ul li {
+  font-family: "Quicksand-Regular", sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  color: var(--main_text_light);
+  margin: 24px 0;
+}
+
+.loginContainer {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  margin-left: -15px;
+
+  font-family: "Quicksand-Regular", sans-serif;
+
+  border-top: 1px solid #cccccc;
+  border-bottom: 1px solid #cccccc;
+  padding: 15px 0;
+}
+
+.loginContainer div {
+  margin: 0 8px;
+}
+
+.loginContainer div span {
+  color: #477aaa;
+
+  border-bottom: 1px solid #477aaa;
+
+  cursor: pointer;
+}
+
+.btnContainer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.btnContainer .startPlayingBtn {
+  width: 148px;
+  height: 38px;
+  left: 117px;
+  bottom: 32px;
+  background: var(--main_text_light);
+  border-radius: 10px;
+  font-family: "Quicksand-Regular", sans-serif;
+  font-weight: 700;
+  font-size: 16px;
+  text-align: center;
+  color: #ffffff;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  margin-top: 30px;
+}
+
+@media only screen and (max-width: 768px) {
+  .popUpHead {
+    text-align: center;
+    letter-spacing: 0;
+    font-family: "Quicksand-Bold", sans-serif;
+    font-weight: 600;
+    font-size: 24px;
+    color: #151818;
+  }
+
+  .listContainer ul {
+    margin-top: 15px;
+  }
+
+  .listContainer ul li {
+    font-size: 12px;
+    margin: 20px 0;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .listContainer ul li {
+    margin: 14px 0;
+  }
+
+  .btnContainer .startPlayingBtn {
+    width: 128px;
+    height: 32px;
+    border-radius: 6px;
+    font-size: 12px;
+  }
+}

@@ -1,0 +1,68 @@
+.onScreenNumpadContainer {
+  position: absolute;
+  bottom: 1%;
+  left: 50%;
+  transform: translateX(-50%);
+  width: auto;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.onScreenNumpadContainer .btnsRow {
+  display: flex;
+  justify-content: space-between;
+  width: auto;
+}
+
+.onScreenNumpadContainer .btnsRow .numpadBtn {
+  flex: 1;
+  /* height: 60px; */
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  display: flex;
+
+  border-radius: 5px;
+  margin: 2px;
+
+  cursor: pointer;
+
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 16px;
+  background-color: rgb(201, 198, 198);
+
+  outline: none;
+  border: 0;
+}
+
+.onScreenNumpadContainer .btnsRow .numpadBtn img {
+  width: 25px;
+  height: 25px;
+  object-fit: contain;
+}
+@media only screen and (max-width: 768px) {
+  .onScreenNumpadContainer {
+    /* display: none; */
+    width: 100%;
+  }
+
+  .onScreenNumpadContainer .btnsRow {
+    width: 100%;
+  }
+
+  .onScreenNumpadContainer .btnsRow .numpadBtn {
+    height: 60px;
+    padding: 0;
+
+    font-size: 12px;
+  }
+  .onScreenNumpadContainer .btnsRow .numpadBtn img {
+    width: 20px;
+    height: 20px;
+    object-fit: contain;
+  }
+}

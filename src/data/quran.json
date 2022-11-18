@@ -1,0 +1,47 @@
+[
+    {
+        "phrase": "وُجۡدِكُمۡ",
+        "correctSurahNumber": 65,
+        "correctAyahNumber": 6
+    },
+    {
+        "phrase": "فَهِىَ يَوۡمَٮِٕذٍ۬ وَاهِيَةٌ۬ ",
+        "correctSurahNumber": 69,
+        "correctAyahNumber": 16
+    },
+    {
+        "phrase": "ٱلۡهِيمِ",
+        "correctSurahNumber": 56,
+        "correctAyahNumber": 55
+    },
+    {
+        "phrase": "هُنَالِكَ",
+        "correctSurahNumber": 38,
+        "correctAyahNumber": 11
+    },
+    {
+        "phrase": "خُلِقَ هَلُوعًا ", 
+        "correctSurahNumber": 70,
+        "correctAyahNumber": 19
+    },
+    {
+        "phrase": "هَضِيمٌ۬",
+        "correctSurahNumber": 26,
+        "correctAyahNumber": 148
+    },
+    {
+        "phrase": "مَّنَّاعٍ۬ لِّلۡخَيۡرِ مُعۡتَدٍ۬ مُّرِيبٍ ",
+        "correctSurahNumber": 50,
+        "correctAyahNumber": 25
+    },
+    {
+        "phrase": "مَّنَّاعٍ۬ لِّلۡخَيۡرِ مُعۡتَدٍ أَثِيمٍ ",
+        "correctSurahNumber": 68,
+        "correctAyahNumber": 12
+    },
+    {
+        "phrase": "لَتَنزِيلُ",
+        "correctSurahNumber": 26,
+        "correctAyahNumber": 192
+    }
+]

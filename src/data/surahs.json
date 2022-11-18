@@ -1,0 +1,458 @@
+[
+    {
+        "name": "سُوۡرَةُ الفَاتِحَة",
+        "surahNumber": 1
+    },
+    {
+        "name": "سُوۡرَةُ البَقَرَة",
+        "surahNumber": 2
+    },
+    {
+        "name": "سُوۡرَةُ آل عِمرَان",
+        "surahNumber": 3
+    },
+    {
+        "name": "سُوۡرَةُ النِّسَاء",
+        "surahNumber": 4
+    },
+    {
+        "name": "سُوۡرَةُ المَائدة",
+        "surahNumber": 5
+    },
+    {
+        "name": "سُوۡرَةُ الاٴنعَام",
+        "surahNumber": 6
+    },
+    {
+        "name": "سُوۡرَةُ الاٴعرَاف",
+        "surahNumber": 7
+    },
+    {
+        "name": "سُوۡرَةُ الاٴنفَال",
+        "surahNumber": 8
+    },
+    {
+        "name": "سُوۡرَةُ التّوبَة",
+        "surahNumber": 9
+    },
+    {
+        "name": "سُوۡرَةُ یُونس",
+        "surahNumber": 10
+    },
+    {
+        "name": "سُوۡرَةُ هُود",
+        "surahNumber": 11
+    },
+    {
+        "name": "سُوۡرَةُ یُوسُف",
+        "surahNumber": 12
+    },
+    {
+        "name": "سُوۡرَةُ الرّعد",
+        "surahNumber": 13
+    },
+    {
+        "name": "سُوۡرَةُ إبراهیم",
+        "surahNumber": 14
+    },
+    {
+        "name": "سُوۡرَةُ الحِجر",
+        "surahNumber": 15
+    },
+    {
+        "name": "سُوۡرَةُ النّحل",
+        "surahNumber": 16
+    },
+    {
+        "name": "سورة الإسرَاء",
+        "surahNumber": 17
+    },
+    {
+        "name": "سُوۡرَةُ الکهف",
+        "surahNumber": 18
+    },
+    {
+        "name": "سُوۡرَةُ مَریَم",
+        "surahNumber": 19
+    },
+    {
+        "name": "سُوۡرَةُ طٰه",
+        "surahNumber": 20
+    },
+    {
+        "name": "سُوۡرَةُ الاٴنبیَاء",
+        "surahNumber": 21
+    },
+    {
+        "name": "سُوۡرَةُ الحَجّ",
+        "surahNumber": 22
+    },
+    {
+        "name": "سُوۡرَةُ المؤمنون",
+        "surahNumber": 23
+    },
+    {
+        "name": "سُوۡرَةُ النُّور",
+        "surahNumber": 24
+    },
+    {
+        "name": "سُوۡرَةُ الفُرقان",
+        "surahNumber": 25
+    },
+    {
+        "name": "سُوۡرَةُ الشُّعَرَاء",
+        "surahNumber": 26
+    },
+    {
+        "name": "سُوۡرَةُ النَّمل",
+        "surahNumber": 27
+    },
+    {
+        "name": "سُوۡرَةُ القَصَص",
+        "surahNumber": 28
+    },
+    {
+        "name": "سُوۡرَةُ العَنکبوت",
+        "surahNumber": 29
+    },
+    {
+        "name": "سُوۡرَةُ الرُّوم",
+        "surahNumber": 30
+    },
+    {
+        "name": "سُوۡرَةُ لقمَان",
+        "surahNumber": 31
+    },
+    {
+        "name": "سُوۡرَةُ السَّجدَة",
+        "surahNumber": 32
+    },
+    {
+        "name": "سُوۡرَةُ الاٴحزَاب",
+        "surahNumber": 33
+    },
+    {
+        "name": "سُوۡرَةُ سَبَإ",
+        "surahNumber": 34
+    },
+    {
+        "name": "سُوۡرَةُ فَاطِر",
+        "surahNumber": 35
+    },
+    {
+        "name": "سُوۡرَةُ یسٓ",
+        "surahNumber": 36
+    },
+    {
+        "name": "سُوۡرَةُ الصَّافات",
+        "surahNumber": 37
+    },
+    {
+        "name": "سُوۡرَةُ صٓ",
+        "surahNumber": 38
+    },
+    {
+        "name": "سُوۡرَةُ الزُّمَر",
+        "surahNumber": 39
+    },
+    {
+        "name": "سورة غَافر",
+        "surahNumber": 40
+    },
+    {
+        "name": "سورة فُصّلَت",
+        "surahNumber": 41
+    },
+    {
+        "name": "سُوۡرَةُ الشّوریٰ",
+        "surahNumber": 42
+    },
+    {
+        "name": "سورة الزّخرُف",
+        "surahNumber": 43
+    },
+    {
+        "name": "سورة الدّخان",
+        "surahNumber": 44
+    },
+    {
+        "name": "سورة الجَاثیَة",
+        "surahNumber": 45
+    },
+    {
+        "name": "سورة الاٴحقاف",
+        "surahNumber": 46
+    },
+    {
+        "name": "سورة محَمَّد",
+        "surahNumber": 47
+    },
+    {
+        "name": "سورة الفَتْح",
+        "surahNumber": 48
+    },
+    {
+        "name": "سورة الحُجرَات",
+        "surahNumber": 49
+    },
+    {
+        "name": "سورة قٓ",
+        "surahNumber": 50
+    },
+    {
+        "name": "سورة الذّاریَات",
+        "surahNumber": 51
+    },
+    {
+        "name": "سورة الطُّور",
+        "surahNumber": 52
+    },
+    {
+        "name": "سورة النّجْم",
+        "surahNumber": 53
+    },
+    {
+        "name": "سورة القَمَر",
+        "surahNumber": 54
+    },
+    {
+        "name": "سورة الرَّحمٰن",
+        "surahNumber": 55
+    },
+    {
+        "name": "سورة الواقِعَة",
+        "surahNumber": 56
+    },
+    {
+        "name": "سورة الحَدید",
+        "surahNumber": 57
+    },
+    {
+        "name": "سورة المجَادلة",
+        "surahNumber": 58
+    },
+    {
+        "name": "سورة الحَشر",
+        "surahNumber": 59
+    },
+    {
+        "name": "سورة المُمتَحنَة",
+        "surahNumber": 60
+    },
+    {
+        "name": "سورة الصَّف",
+        "surahNumber": 61
+    },
+    {
+        "name": "سورة الجُمُعَة",
+        "surahNumber": 62
+    },
+    {
+        "name": "سورة المنَافِقون",
+        "surahNumber": 63
+    },
+    {
+        "name": "سورة التّغَابُن",
+        "surahNumber": 64
+    },
+    {
+        "name": "سورة الطّلاَق",
+        "surahNumber": 65
+    },
+    {
+        "name": "سورة التّحْریم",
+        "surahNumber": 66
+    },
+    {
+        "name": "سورة المُلک",
+        "surahNumber": 67
+    },
+    {
+        "name": "سورة القَلَم",
+        "surahNumber": 68
+    },
+    {
+        "name": "سورة الحَاقَّة",
+        "surahNumber": 69
+    },
+    {
+        "name": "سورة المعَارج",
+        "surahNumber": 70
+    },
+    {
+        "name": "سورة نُوح",
+        "surahNumber": 71
+    },
+    {
+        "name": "سورة الجنّ",
+        "surahNumber": 72
+    },
+    {
+        "name": "سورة المُزمّل",
+        "surahNumber": 73
+    },
+    {
+        "name": "سورة المدَّثِّر",
+        "surahNumber": 74
+    },
+    {
+        "name": "سورة القِیَامَة",
+        "surahNumber": 75
+    },
+    {
+        "name": "سورة الإنسَان",
+        "surahNumber": 76
+    },
+    {
+        "name": "سورة المُرسَلات",
+        "surahNumber": 77
+    },
+    {
+        "name": "سورة النّبَإِ",
+        "surahNumber": 78
+    },
+    {
+        "name": "سورة النَّازعَات",
+        "surahNumber": 79
+    },
+    {
+        "name": "سورة عَبَسَ",
+        "surahNumber": 80
+    },
+    {
+        "name": "سورة التّکویر",
+        "surahNumber": 81
+    },
+    {
+        "name": "سورة الانفِطار",
+        "surahNumber": 82
+    },
+    {
+        "name": "سورة المطفّفِین",
+        "surahNumber": 83
+    },
+    {
+        "name": "سورة الانشقاق",
+        "surahNumber": 84
+    },
+    {
+        "name": "سورة البُرُوج",
+        "surahNumber": 85
+    },
+    {
+        "name": "سورة الطّارق",
+        "surahNumber": 86
+    },
+    {
+        "name": "سورة الاٴعلی",
+        "surahNumber": 87
+    },
+    {
+        "name": "سورة الغَاشِیَة",
+        "surahNumber": 88
+    },
+    {
+        "name": "سورة الفَجر",
+        "surahNumber": 89
+    },
+    {
+        "name": "سورة البَلَد",
+        "surahNumber": 90
+    },
+    {
+        "name": "سورة الشّمس",
+        "surahNumber": 91
+    },
+    {
+        "name": "سورة اللیْل",
+        "surahNumber": 92
+    },
+    {
+        "name": "سورة الِضُّحىٰ",
+        "surahNumber": 93
+    },
+    {
+        "name": "سورة الشَّرح",
+        "surahNumber": 94
+    },
+    {
+        "name": "سورة التِّین",
+        "surahNumber": 95
+    },
+    {
+        "name": "سورة العَلق",
+        "surahNumber": 96
+    },
+    {
+        "name": "سورة القَدر",
+        "surahNumber": 97
+    },
+    {
+        "name": "سورة البَیّنَة",
+        "surahNumber": 98
+    },
+    {
+        "name": "سورة الزّلزَلة",
+        "surahNumber": 99
+    },
+    {
+        "name": "سورة العَادیَات",
+        "surahNumber": 100
+    },
+    {
+        "name": "سورة القَارعَة",
+        "surahNumber": 101
+    },
+    {
+        "name": "سورة التّکاثُر",
+        "surahNumber": 102
+    },
+    {
+        "name": "سورة العَصر",
+        "surahNumber": 103
+    },
+    {
+        "name": "سورة الهُمَزة",
+        "surahNumber": 104
+    },
+    {
+        "name": "سورة الفِیل",
+        "surahNumber": 105
+    },
+    {
+        "name": "سورة قُرَیش",
+        "surahNumber": 106
+    },
+    {
+        "name": "سورة المَاعون",
+        "surahNumber": 107
+    },
+    {
+        "name": "سورة الکَوثَر",
+        "surahNumber": 108
+    },
+    {
+        "name": "سورة الکافِرون",
+        "surahNumber": 109
+    },
+    {
+        "name": "سورة النّصر",
+        "surahNumber": 110
+    },
+    {
+        "name": "سورة المَسَد",
+        "surahNumber": 111
+    },
+    {
+        "name": "سورة الإخلاص",
+        "surahNumber": 112
+    },
+    {
+        "name": "سورة الفَلَق",
+        "surahNumber": 113
+    },
+    {
+        "name": "سورة النَّاس",
+        "surahNumber": 114
+    }
+]

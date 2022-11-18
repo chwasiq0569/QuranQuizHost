@@ -1,0 +1,131 @@
+.surahName {
+  width: fit-content;
+  text-align: center;
+  letter-spacing: 0;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-weight: 500;
+  font-size: 28px;
+  color: #151818;
+
+  letter-spacing: 0px;
+
+  margin: 0 auto;
+  border-bottom: 1px solid #151818;
+
+  padding-bottom: 8px;
+}
+
+.bismillahText {
+  width: fit-content;
+  font-family: "Readex Pro", sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  color: #151818;
+  margin: 32px auto;
+}
+
+.ayahText {
+  width: fit-content;
+  font-family: "Readex Pro", sans-serif;
+  font-weight: 600;
+  font-size: 24px;
+  text-align: center;
+  color: #151818;
+  margin: 0 auto;
+}
+
+.shareContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.shareContainer img {
+  width: 20px;
+  height: 20px;
+  object-fit: contain;
+}
+
+.shareContainer span {
+  font-family: "Quicksand-bold", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  color: #1c6758;
+
+  letter-spacing: 0;
+
+  margin-left: 5px;
+}
+
+.closeIcon {
+  width: 14px;
+  height: 14px;
+  object-fit: contain;
+
+  position: fixed;
+  right: 5%;
+  top: 5%;
+
+  cursor: pointer;
+}
+
+.secondaryTextContainer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.secondaryTextContainer .secondaryText {
+  font-family: "Quicksand-Regular", sans-serif;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 30px;
+  letter-spacing: 0;
+  color: #3c3d3d;
+  margin: 30px 0;
+}
+
+@media only screen and (max-width: 768px) {
+  .surahName {
+    font-size: 24px;
+  }
+
+  .bismillahText {
+    font-size: 16px;
+    margin: 28px auto;
+  }
+
+  .ayahText {
+    font-size: 20px;
+  }
+
+  .secondaryTextContainer .secondaryText {
+    font-size: 16px;
+    line-height: 24px;
+    margin: 24px 0;
+  }
+
+  .shareContainer img {
+    width: 16px;
+    height: 16px;
+  }
+
+  .shareContainer span {
+    font-weight: 500;
+    font-size: 16px;
+  }
+}
+
+/* @media only screen and (max-width: 480px) {
+  .listContainer ul li {
+    margin: 14px 0;
+  }
+
+  .btnContainer .startPlayingBtn {
+    width: 128px;
+    height: 32px;
+    border-radius: 6px;
+    font-size: 12px;
+  }
+} */

@@ -1,0 +1,128 @@
+.headText {
+  width: fit-content;
+  text-align: center;
+  letter-spacing: 0;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-weight: 500;
+  font-size: 28px;
+  color: #151818;
+
+  letter-spacing: 0px;
+
+  margin: 0 auto;
+
+  padding-bottom: 8px;
+}
+
+.statsNumbers {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+
+  margin-top: 30px;
+}
+
+.statContainer .statNum {
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 36px;
+  font-size: 28px;
+}
+
+.statContainer .statType {
+  font-family: "Quicksand-Regular", sans-serif;
+  font-weight: 800;
+  font-size: 16px;
+}
+
+.bismillahText {
+  width: fit-content;
+  font-family: "Readex Pro", sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  color: #151818;
+  margin: 32px auto;
+}
+
+.ayahText {
+  width: fit-content;
+  font-family: "Readex Pro", sans-serif;
+  font-weight: 600;
+  font-size: 24px;
+  text-align: center;
+  color: #151818;
+  margin: 0 auto;
+}
+
+.shareContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.shareContainer img {
+  width: 20px;
+  height: 20px;
+  object-fit: contain;
+}
+
+.shareContainer span {
+  font-family: "Quicksand-bold", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  color: #1c6758;
+
+  letter-spacing: 0;
+
+  margin-left: 5px;
+}
+
+.closeIcon {
+  width: 14px;
+  height: 14px;
+  object-fit: contain;
+
+  position: fixed;
+  right: 5%;
+  top: 5%;
+
+  cursor: pointer;
+}
+
+secondaryTextContainer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.secondaryTextContainer .secondaryText {
+  font-family: "Quicksand-Regular", sans-serif;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 30px;
+  letter-spacing: 0;
+  color: #3c3d3d;
+  margin-top: 30px;
+}
+
+.spacer {
+  width: 100%;
+  margin-top: 15px;
+  border-bottom: 1px solid rgba(21, 24, 24, 0.2);
+}
+
+.chartContainer {
+  width: 300px;
+  height: auto;
+  object-fit: contain;
+  margin: 0 auto;
+  padding: 15px 0;
+}
+
+.nextChallenge {
+  text-align: center;
+  font-family: "Quicksand";
+  font-weight: 700;
+  font-size: 14px;
+  margin: 1rem 0;
+}
